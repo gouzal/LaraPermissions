@@ -1,0 +1,17 @@
+{
+    "name": "gouzal/lara-permissions",
+    "description": "Associate users with roles and permissions",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Larbi Gouzal",
+            "email": "larbi-inco@live.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": 
+	{
+	        "php": ">=5.6.0"
+	}
+}
