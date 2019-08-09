@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Gouzal\LaraPermissions;
 
 use Illuminate\Database\Eloquent\Model;
 
